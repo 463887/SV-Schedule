@@ -461,7 +461,7 @@ export class Databases {
             "extraComments": "Non-instructional full day for students entering Grade 9\nand students new to a school or MCPS",
         },
         "8/26/2025": {
-            "bellScheduleId": "EagleTime",
+            "bellScheduleId": "AMHomeroom",
             "alias": "First Day of School",
             "color": "rgb(132, 232, 180)",
         },
